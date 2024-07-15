@@ -1,0 +1,12 @@
+.header {
+    /* background-color: #a29e9e62; */
+  background-color: #1b1a1ad7;
+  color: #ddd;
+
+    padding: 20px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .header h1 {
+    margin: 0;
+  }
